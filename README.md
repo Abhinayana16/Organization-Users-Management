@@ -1,4 +1,4 @@
-# Organization & Users Management (Full)
+# Organization & Users Management
 This package contains a full-stack application with:
 - FastAPI backend (Python)
 - React + Tailwind frontend
